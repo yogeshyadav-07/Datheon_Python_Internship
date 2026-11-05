@@ -1,0 +1,6 @@
+14:40:49 INFO    Normalized null tokens and whitespace; 162 cells are null
+14:40:50 INFO    Prices: 137 parsed, 1 unparseable, 1 unsupported currency; normalized to USD
+14:40:50 INFO    Dates: 137 parsed to UTC, 1 unparseable (dayfirst=True)
+14:40:50 INFO    Validation: 124 valid, 14 quarantined
+14:40:50 INFO    Dedup: removed 6 exact and 12 same-product (URL key) duplicates
+14:40:50 INFO    Verdict: PASS WITH WARNINGS | 138 -> 106 rows | outputs in clean_output/

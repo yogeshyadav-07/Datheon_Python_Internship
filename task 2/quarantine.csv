@@ -1,0 +1,15 @@
+﻿title,price,currency,rating,in_stock,availability,product_url,image_url,page,scraped_at,price_original,currency_original,rejection_reasons
+Book 3 full title,-15.88,USD,4,True,In stock,http://localhost:8765/catalogue/book_3/index.html,http://localhost:8765/media/3.jpg,1,2026-11-04 00:00:00+00:00,-12.5,GBP,below_min:price(<=0)
+,15.05,USD,1,True,In stock,http://localhost:8765/catalogue/book_5/index.html,http://localhost:8765/media/5.jpg,1,2026-11-04 14:32:40+00:00,11.85,GBP,missing_or_invalid:title
+Book 70 full title,0.43,USD,1,True,In stock,http://localhost:8765/catalogue/book_70/index.html,http://localhost:8765/media/70.jpg,4,2099-01-01 00:00:00+00:00,35.9,INR,future_date:scraped_at
+Book 14 full title,19.28,USD,9,True,In stock,http://localhost:8765/catalogue/book_14/index.html,http://localhost:8765/media/14.jpg,1,2026-11-04 14:32:40+00:00,15.18,GBP,above_max:rating(>5)
+Book 8 full title,16.46,USD,4,True,In stock,http://localhost:8765/catalogue/book_8/index.html,http://localhost:8765/media/8.jpg,1,,12.96,GBP,missing_or_invalid:scraped_at
+Book 11 full title,-15.88,USD,2,True,In stock,http://localhost:8765/catalogue/book_11/index.html,http://localhost:8765/media/11.jpg,1,2026-11-04 14:32:40+00:00,-12.5,GBP,below_min:price(<=0)
+Book 47 full title,-15.88,USD,3,True,In stock,http://localhost:8765/catalogue/book_47/index.html,http://localhost:8765/media/47.jpg,3,2026-11-04 00:00:00+00:00,-12.5,GBP,below_min:price(<=0)
+Book 40 full title,,USD,1,True,In stock,http://localhost:8765/catalogue/book_40/index.html,http://localhost:8765/media/40.jpg,3,2026-11-04 14:32:40+00:00,20.0,CHF,missing_or_invalid:price; unsupported_currency
+Book 20 full title,0.21,USD,1,True,In stock,,http://localhost:8765/media/20.jpg,2,2026-11-04 00:00:00+00:00,17.4,INR,missing_or_invalid:product_url
+Book 33 full title,23.99,USD,9,True,In stock,http://localhost:8765/catalogue/book_33/index.html,http://localhost:8765/media/33.jpg,2,2026-11-04 00:00:00+00:00,22.21,EUR,above_max:rating(>5)
+Book 29 full title,,USD,5,True,In stock,http://localhost:8765/catalogue/book_29/index.html,http://localhost:8765/media/29.jpg,2,2026-11-04 00:00:00+00:00,,,missing_or_invalid:price; missing_or_invalid:price_original; missing_or_invalid:currency_original
+Book 90 full title,0.52,USD,1,True,In stock,http://localhost:8765/catalogue/book_90/index.html,http://localhost:8765/media/90.jpg,5,2099-01-01 00:00:00+00:00,43.3,INR,future_date:scraped_at
+,40.89,USD,1,True,In stock,http://localhost:8765/catalogue/book_60/index.html,http://localhost:8765/media/60.jpg,4,2026-11-04 00:00:00+00:00,32.2,GBP,missing_or_invalid:title
+Book 21 full title,0.21,USD,2,True,In stock,ftp//bad url,http://localhost:8765/media/21.jpg,2,2026-11-04 00:00:00+00:00,17.77,INR,bad_format:product_url

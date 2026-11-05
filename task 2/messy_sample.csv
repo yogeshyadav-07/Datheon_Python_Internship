@@ -1,0 +1,139 @@
+﻿title,price,currency,rating,in_stock,availability,product_url,image_url,page,scraped_at
+  Book   15 full title  ,Rs. 15.55,,1/5,1,In stock,http://localhost:8765/catalogue/book_15/index.html,http://localhost:8765/media/15.jpg,1,2026-11-04 14:32:40
+  Book   41 full title  ,25.17,,2/5,,In stock,http://localhost:8765/catalogue/book_41/index.html,http://localhost:8765/media/41.jpg,3,2026-11-04 14:32:40
+  Book   6 full title  ,Â£12.22,,2,TRUE,In stock,http://localhost:8765/catalogue/book_6/index.html,http://localhost:8765/media/6.jpg,1,2026-11-04 14:32:40
+  Book   3 full title  ,-12.50,,4/5,True,In stock,http://localhost:8765/catalogue/book_3/index.html,http://localhost:8765/media/3.jpg,1,2026.11.04
+  Book   103 full title  ,£48.11,,4,1,In stock,http://localhost:8765/catalogue/book_103/index.html,http://localhost:8765/media/103.jpg,6,"Nov 04, 2026"
+  Book   46 full title  ,£27.02,,Two,TRUE,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_46/INDEX.HTML,http://localhost:8765/media/46.jpg,3,2026-11-05
+  Book   31 full title  ,Rs. 21.47,,2/5,True,In stock,http://localhost:8765/catalogue/book_31/index.html,http://localhost:8765/media/31.jpg,2,2026.11.04
+  Book   45 full title  ,£26.65,,1,True,In stock,http://localhost:8765/catalogue/book_45/index.html,http://localhost:8765/media/45.jpg,3,"Nov 04, 2026"
+  Book   27 full title  ,Â£19.99,,3.0,True,In stock,http://localhost:8765/catalogue/book_27/index.html,http://localhost:8765/media/27.jpg,2,2026.11.04
+  Book   98 full title  ,Â£46.26,,Four,1,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_98/INDEX.HTML,http://localhost:8765/media/98.jpg,5,2026-11-05
+  Book   48 full title  ,27.76,,4/5,yes,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_48/INDEX.HTML,http://localhost:8765/media/48.jpg,3,2026-11-05
+null,11.85,,1,yes,In stock,http://localhost:8765/catalogue/book_5/index.html,http://localhost:8765/media/5.jpg,1,2026-11-04 14:32:40
+  Book   57 full title  ,Â£31.09,,3.0,yes,In stock,http://localhost:8765/catalogue/book_57/index.html,http://localhost:8765/media/57.jpg,3,"Nov 04, 2026"
+  Book   70 full title  ,Rs. 35.90,,1,,In stock,http://localhost:8765/catalogue/book_70/index.html,http://localhost:8765/media/70.jpg,4,2099-01-01
+  Book   117 full title  ,USD 53.29,,3,TRUE,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_117/INDEX.HTML,http://localhost:8765/media/117.jpg,6,2026-11-05
+  Book   58 full title  ,"31,46 €",,4.0,yes,In stock,http://localhost:8765/catalogue/book_58/index.html,http://localhost:8765/media/58.jpg,3,04/11/2026
+  Book   99 full title  ,$46.63,,Five,True,In stock,http://localhost:8765/catalogue/book_99/index.html,http://localhost:8765/media/99.jpg,5,2026.11.04
+  Book   50 full title  ,"28,50 €",,1,True,In stock,http://localhost:8765/catalogue/book_50/index.html,http://localhost:8765/media/50.jpg,3,2026.11.04
+  Book   14 full title  ,Â£15.18,,9,1,In stock,http://localhost:8765/catalogue/book_14/index.html,http://localhost:8765/media/14.jpg,1,2026-11-04 14:32:40
+  Book   41 full title  ,25.17,,2/5,,In stock,http://localhost:8765/catalogue/book_41/index.html,http://localhost:8765/media/41.jpg,3,2026-11-04 14:32:40
+  Book   42 full title  ,Rs. 25.54,,3,,In stock,http://localhost:8765/catalogue/book_42/index.html,http://localhost:8765/media/42.jpg,3,2026.11.04
+  Book   8 full title  ,£12.96,,Four,1,In stock,http://localhost:8765/catalogue/book_8/index.html,http://localhost:8765/media/8.jpg,1,31/02/2026
+  Book   97 full title  ,$45.89,,3,yes,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_97/INDEX.HTML,http://localhost:8765/media/97.jpg,5,2026-11-05
+  Book   65 full title  ,$34.05,,One,,In stock,http://localhost:8765/catalogue/book_65/index.html,http://localhost:8765/media/65.jpg,4,2026-11-04T14:32:40Z
+  Book   112 full title  ,Rs. 51.44,,3.0,True,In stock,http://localhost:8765/catalogue/book_112/index.html,http://localhost:8765/media/112.jpg,6,2026-11-04T14:32:40Z
+  Book   100 full title  ,Rs. 47.00,,One,yes,In stock,http://localhost:8765/catalogue/book_100/index.html,http://localhost:8765/media/100.jpg,6,2026.11.04
+  Book   77 full title  ,38.49,,Three,True,In stock,http://localhost:8765/catalogue/book_77/index.html,http://localhost:8765/media/77.jpg,4,04/11/2026
+  Book   38 full title  ,"24,06 €",,Four,,In stock,http://localhost:8765/catalogue/book_38/index.html,http://localhost:8765/media/38.jpg,2,2026-11-04T14:32:40Z
+  Book   25 full title  ,"19,25 €",,1,True,In stock,http://localhost:8765/catalogue/book_25/index.html,http://localhost:8765/media/25.jpg,2,2026.11.04
+  Book   113 full title  ,Â£51.81,,4.0,True,In stock,http://localhost:8765/catalogue/book_113/index.html,http://localhost:8765/media/113.jpg,6,2026-11-04T14:32:40Z
+  Book   53 full title  ,£29.61,,4.0,,In stock,http://localhost:8765/catalogue/book_53/index.html,http://localhost:8765/media/53.jpg,3,"Nov 04, 2026"
+  Book   55 full title  ,USD 30.35,,One,TRUE,N/A,http://localhost:8765/catalogue/book_55/index.html,http://localhost:8765/media/55.jpg,3,"Nov 04, 2026"
+  Book   22 full title  ,18.14,,3.0,1,In stock,http://localhost:8765/catalogue/book_22/index.html,http://localhost:8765/media/22.jpg,2,2026-11-04 14:32:40
+  Book   17 full title  &amp; Co  ,£16.29,,3.0,TRUE,In stock,http://localhost:8765/catalogue/book_17/index.html,http://localhost:8765/media/17.jpg,1,2026-11-04 14:32:40
+  Book   73 full title  ,USD 37.01,,Four,TRUE,In stock,http://localhost:8765/catalogue/book_73/index.html,http://localhost:8765/media/73.jpg,4,2026.11.04
+  Book   23 full title  ,Â£18.51,,4/5,TRUE,In stock,http://localhost:8765/catalogue/book_23/index.html,http://localhost:8765/media/23.jpg,2,"Nov 04, 2026"
+  Book   72 full title  ,$36.64,,3,yes,In stock,http://localhost:8765/catalogue/book_72/index.html,http://localhost:8765/media/72.jpg,4,04/11/2026
+  Book   82 full title  ,40.34,,3/5,TRUE,In stock,http://localhost:8765/catalogue/book_82/index.html,http://localhost:8765/media/82.jpg,5,2026-11-04 14:32:40
+  Book   118 full title  ,Â£53.66,,4,yes,In stock,http://localhost:8765/catalogue/book_118/index.html,http://localhost:8765/media/118.jpg,6,04/11/2026
+  Book   35 full title  ,$22.95,,1,yes,In stock,http://localhost:8765/catalogue/book_35/index.html,http://localhost:8765/media/35.jpg,2,04/11/2026
+  Book   89 full title  ,"42,93 €",,5,TRUE,In stock,http://localhost:8765/catalogue/book_89/index.html,http://localhost:8765/media/89.jpg,5,2026-11-04T14:32:40Z
+  Book   114 full title  ,USD 52.18,,5,1,In stock,http://localhost:8765/catalogue/book_114/index.html,http://localhost:8765/media/114.jpg,6,04/11/2026
+  Book   34 full title  &amp; Co  ,"22,58 €",,5.0,,In stock,http://localhost:8765/catalogue/book_34/index.html,http://localhost:8765/media/34.jpg,2,2026.11.04
+  Book   105 full title  ,Rs. 48.85,,1.0,TRUE,In stock,http://localhost:8765/catalogue/book_105/index.html,http://localhost:8765/media/105.jpg,6,"Nov 04, 2026"
+  Book   19 full title  ,USD 17.03,,5,TRUE,In stock,http://localhost:8765/catalogue/book_19/index.html,http://localhost:8765/media/19.jpg,1,2026-11-04T14:32:40Z
+  Book   91 full title  ,Rs. 43.67,,Two,1,In stock,http://localhost:8765/catalogue/book_91/index.html,http://localhost:8765/media/91.jpg,5,"Nov 04, 2026"
+  Book   54 full title  ,29.98,,5,yes,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_54/INDEX.HTML,http://localhost:8765/media/54.jpg,3,2026-11-05
+  Book   4 full title  ,$11.48,,5/5,True,In stock,http://localhost:8765/catalogue/book_4/index.html,http://localhost:8765/media/4.jpg,1,2026-11-04T14:32:40Z
+  Book   12 full title  ,£14.44,,3,TRUE,In stock,http://localhost:8765/catalogue/book_12/index.html,http://localhost:8765/media/12.jpg,1,2026-11-04 14:32:40
+  Book   83 full title  ,$40.71,,Four,TRUE,In stock,http://localhost:8765/catalogue/book_83/index.html,http://localhost:8765/media/83.jpg,5,2026-11-04 14:32:40
+  Book   67 full title  ,USD 34.79,,3,,In stock,http://localhost:8765/catalogue/book_67/index.html,http://localhost:8765/media/67.jpg,4,2026-11-04 14:32:40
+  Book   10 full title  ,"13,70 €",,One,True,In stock,http://localhost:8765/catalogue/book_10/index.html,http://localhost:8765/media/10.jpg,1,2026-11-04 14:32:40
+  Book   106 full title  ,£49.22,,Two,True,In stock,http://localhost:8765/catalogue/book_106/index.html,http://localhost:8765/media/106.jpg,6,2026-11-04T14:32:40Z
+  Book   11 full title  ,-12.50,,Two,1,In stock,http://localhost:8765/catalogue/book_11/index.html,http://localhost:8765/media/11.jpg,1,2026-11-04 14:32:40
+  Book   115 full title  ,52.55,,1/5,True,In stock,http://localhost:8765/catalogue/book_115/index.html,http://localhost:8765/media/115.jpg,6,2026-11-04T14:32:40Z
+  Book   88 full title  ,USD 42.56,,Four,yes,In stock,http://localhost:8765/catalogue/book_88/index.html,http://localhost:8765/media/88.jpg,5,2026-11-04T14:32:40Z
+  Book   47 full title  ,-12.50,,3,True,In stock,http://localhost:8765/catalogue/book_47/index.html,http://localhost:8765/media/47.jpg,3,"Nov 04, 2026"
+  Book   87 full title  ,£42.19,,3/5,True,In stock,http://localhost:8765/catalogue/book_87/index.html,http://localhost:8765/media/87.jpg,5,"Nov 04, 2026"
+  Book   9 full title  ,Rs. 13.33,,5,TRUE,In stock,http://localhost:8765/catalogue/book_9/index.html,http://localhost:8765/media/9.jpg,1,04/11/2026
+  Book   68 full title  &amp; Co  ,Â£35.16,,4,True,In stock,http://localhost:8765/catalogue/book_68/index.html,http://localhost:8765/media/68.jpg,4,"Nov 04, 2026"
+  Book   84 full title  ,USD 41.08,,5/5,yes,In stock,http://localhost:8765/catalogue/book_84/index.html,http://localhost:8765/media/84.jpg,5,2026-11-04T14:32:40Z
+  Book   117 full title  ,USD 53.29,,3,TRUE,In stock,http://localhost:8765/catalogue/book_117/index.html,http://localhost:8765/media/117.jpg,6,04/11/2026
+  Book   39 full title  ,USD 24.43,,5.0,yes,In stock,http://localhost:8765/catalogue/book_39/index.html,http://localhost:8765/media/39.jpg,2,"Nov 04, 2026"
+  Book   40 full title  ,CHF 20.00,,1,,In stock,http://localhost:8765/catalogue/book_40/index.html,http://localhost:8765/media/40.jpg,3,2026-11-04 14:32:40
+  Book   116 full title  ,"52,92 €",,2/5,1,In stock,http://localhost:8765/catalogue/book_116/index.html,http://localhost:8765/media/116.jpg,6,2026-11-04 14:32:40
+  Book   95 full title  ,£45.15,,1/5,1,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_95/INDEX.HTML,http://localhost:8765/media/95.jpg,5,2026-11-05
+  Book   101 full title  ,$47.37,,2/5,1,In stock,http://localhost:8765/catalogue/book_101/index.html,http://localhost:8765/media/101.jpg,6,2026.11.04
+  Book   59 full title  ,USD 31.83,,Five,,In stock,http://localhost:8765/catalogue/book_59/index.html,http://localhost:8765/media/59.jpg,3,04/11/2026
+  Book   76 full title  ,£38.12,,Two,,In stock,http://localhost:8765/catalogue/book_76/index.html,http://localhost:8765/media/76.jpg,4,2026-11-04T14:32:40Z
+  Book   44 full title  ,£26.28,,5/5,yes,In stock,http://localhost:8765/catalogue/book_44/index.html,http://localhost:8765/media/44.jpg,3,04/11/2026
+  Book   36 full title  ,$23.32,,Two,True,In stock,http://localhost:8765/catalogue/book_36/index.html,http://localhost:8765/media/36.jpg,2,04/11/2026
+  Book   102 full title  &amp; Co  ,Rs. 47.74,,3.0,1,In stock,http://localhost:8765/catalogue/book_102/index.html,http://localhost:8765/media/102.jpg,6,04/11/2026
+  Book   81 full title  ,Â£39.97,,2/5,TRUE,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_81/INDEX.HTML,http://localhost:8765/media/81.jpg,5,2026-11-05
+  Book   52 full title  ,Rs. 29.24,,3,yes,In stock,http://localhost:8765/catalogue/book_52/index.html,http://localhost:8765/media/52.jpg,3,"Nov 04, 2026"
+  Book   59 full title  ,USD 31.83,,Five,,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_59/INDEX.HTML,http://localhost:8765/media/59.jpg,3,2026-11-05
+  Book   61 full title  ,Rs. 32.57,,2,True,In stock,http://localhost:8765/catalogue/book_61/index.html,http://localhost:8765/media/61.jpg,4,"Nov 04, 2026"
+  Book   109 full title  ,50.33,,5.0,,In stock,http://localhost:8765/catalogue/book_109/index.html,http://localhost:8765/media/109.jpg,6,2026.11.04
+  Book   30 full title  ,21.10,,One,yes,In stock,http://localhost:8765/catalogue/book_30/index.html,http://localhost:8765/media/30.jpg,2,"Nov 04, 2026"
+  Book   92 full title  ,Rs. 44.04,,3/5,TRUE,In stock,http://localhost:8765/catalogue/book_92/index.html,http://localhost:8765/media/92.jpg,5,2026-11-04 14:32:40
+  Book   13 full title  ,£14.81,,Four,,In stock,http://localhost:8765/catalogue/book_13/index.html,http://localhost:8765/media/13.jpg,1,2026-11-04 14:32:40
+  Book   55 full title  ,USD 30.35,,One,TRUE,N/A,http://localhost:8765/catalogue/book_55/index.html,http://localhost:8765/media/55.jpg,3,"Nov 04, 2026"
+  Book   75 full title  ,$37.75,,One,True,In stock,http://localhost:8765/catalogue/book_75/index.html,http://localhost:8765/media/75.jpg,4,2026-11-04 14:32:40
+  Book   98 full title  ,Â£46.26,,Four,1,In stock,http://localhost:8765/catalogue/book_98/index.html,http://localhost:8765/media/98.jpg,5,"Nov 04, 2026"
+  Book   86 full title  ,$41.82,,2,TRUE,In stock,http://localhost:8765/catalogue/book_86/index.html,http://localhost:8765/media/86.jpg,5,2026.11.04
+  Book   32 full title  ,$21.84,,3/5,TRUE,In stock,http://localhost:8765/catalogue/book_32/index.html,http://localhost:8765/media/32.jpg,2,2026.11.04
+  Book   80 full title  ,USD 39.60,,One,True,In stock,http://localhost:8765/catalogue/book_80/index.html,http://localhost:8765/media/80.jpg,5,2026.11.04
+  Book   16 full title  ,"15,92 €",,Two,yes,In stock,http://localhost:8765/catalogue/book_16/index.html,http://localhost:8765/media/16.jpg,1,04/11/2026
+  Book   74 full title  ,37.38,,5/5,1,In stock,http://localhost:8765/catalogue/book_74/index.html,http://localhost:8765/media/74.jpg,4,2026-11-04 14:32:40
+  Book   85 full title  &amp; Co  ,USD 41.45,,One,yes,In stock,http://localhost:8765/catalogue/book_85/index.html,http://localhost:8765/media/85.jpg,5,2026-11-04T14:32:40Z
+  Book   77 full title  ,38.49,,Three,True,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_77/INDEX.HTML,http://localhost:8765/media/77.jpg,4,2026-11-05
+  Book   111 full title  ,£51.07,,2,yes,In stock,http://localhost:8765/catalogue/book_111/index.html,http://localhost:8765/media/111.jpg,6,"Nov 04, 2026"
+  Book   46 full title  ,£27.02,,Two,TRUE,In stock,http://localhost:8765/catalogue/book_46/index.html,http://localhost:8765/media/46.jpg,3,2026-11-04 14:32:40
+  Book   96 full title  ,£45.52,,2/5,True,In stock,http://localhost:8765/catalogue/book_96/index.html,http://localhost:8765/media/96.jpg,5,04/11/2026
+  Book   71 full title  ,Rs. 36.27,,2,yes,In stock,http://localhost:8765/catalogue/book_71/index.html,http://localhost:8765/media/71.jpg,4,2026.11.04
+  Book   95 full title  ,£45.15,,1/5,1,In stock,http://localhost:8765/catalogue/book_95/index.html,http://localhost:8765/media/95.jpg,5,2026.11.04
+  Book   56 full title  ,£30.72,,2.0,True,In stock,http://localhost:8765/catalogue/book_56/index.html,http://localhost:8765/media/56.jpg,3,2026-11-04 14:32:40
+  Book   108 full title  ,49.96,,4.0,yes,In stock,http://localhost:8765/catalogue/book_108/index.html,http://localhost:8765/media/108.jpg,6,04/11/2026
+  Book   31 full title  ,Rs. 21.47,,2/5,True,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_31/INDEX.HTML,http://localhost:8765/media/31.jpg,2,2026-11-05
+  Book   18 full title  ,Rs. 16.66,,4/5,1,In stock,http://localhost:8765/catalogue/book_18/index.html,http://localhost:8765/media/18.jpg,1,"Nov 04, 2026"
+  Book   64 full title  ,33.68,,5.0,True,In stock,http://localhost:8765/catalogue/book_64/index.html,http://localhost:8765/media/64.jpg,4,"Nov 04, 2026"
+  Book   24 full title  ,18.88,,5,True,In stock,http://localhost:8765/catalogue/book_24/index.html,http://localhost:8765/media/24.jpg,2,2026.11.04
+  Book   54 full title  ,29.98,,5,yes,In stock,http://localhost:8765/catalogue/book_54/index.html,http://localhost:8765/media/54.jpg,3,04/11/2026
+  Book   28 full title  ,Rs. 20.36,,Four,TRUE,In stock,http://localhost:8765/catalogue/book_28/index.html,http://localhost:8765/media/28.jpg,2,"Nov 04, 2026"
+  Book   78 full title  ,"38,86 €",,4.0,TRUE,In stock,http://localhost:8765/catalogue/book_78/index.html,http://localhost:8765/media/78.jpg,4,04/11/2026
+  Book   74 full title  ,37.38,,5/5,1,In stock,http://localhost:8765/catalogue/book_74/index.html,http://localhost:8765/media/74.jpg,4,2026-11-04 14:32:40
+  Book   49 full title  ,Â£28.13,,5.0,TRUE,In stock,http://localhost:8765/catalogue/book_49/index.html,http://localhost:8765/media/49.jpg,3,"Nov 04, 2026"
+  Book   94 full title  ,$44.78,,Five,,In stock,http://localhost:8765/catalogue/book_94/index.html,http://localhost:8765/media/94.jpg,5,2026.11.04
+  Book   20 full title  ,Rs. 17.40,,1.0,yes,In stock,,http://localhost:8765/media/20.jpg,2,04/11/2026
+  Book   37 full title  ,Rs. 23.69,,Three,1,In stock,http://localhost:8765/catalogue/book_37/index.html,http://localhost:8765/media/37.jpg,2,2026-11-04 14:32:40
+  Book   48 full title  ,27.76,,4/5,yes,In stock,http://localhost:8765/catalogue/book_48/index.html,http://localhost:8765/media/48.jpg,3,04/11/2026
+  Book   79 full title  ,$39.23,,5.0,1,In stock,http://localhost:8765/catalogue/book_79/index.html,http://localhost:8765/media/79.jpg,4,2026-11-04 14:32:40
+  Book   33 full title  ,"22,21 €",,9,TRUE,In stock,http://localhost:8765/catalogue/book_33/index.html,http://localhost:8765/media/33.jpg,2,04/11/2026
+  Book   43 full title  ,Â£25.91,,4,yes,In stock,http://localhost:8765/catalogue/book_43/index.html,http://localhost:8765/media/43.jpg,3,2026.11.04
+  Book   7 full title  ,USD 12.59,,3,yes,In stock,http://localhost:8765/catalogue/book_7/index.html,http://localhost:8765/media/7.jpg,1,2026.11.04
+  Book   62 full title  ,32.94,,3/5,1,In stock,http://localhost:8765/catalogue/book_62/index.html,http://localhost:8765/media/62.jpg,4,"Nov 04, 2026"
+  Book   24 full title  ,18.88,,5,True,In stock,http://localhost:8765/catalogue/book_24/index.html,http://localhost:8765/media/24.jpg,2,2026.11.04
+  Book   2 full title  ,USD 10.74,,Three,True,In stock,http://localhost:8765/catalogue/book_2/index.html,http://localhost:8765/media/2.jpg,1,2026-11-04T14:32:40Z
+  Book   29 full title  ,abc,,5,yes,In stock,http://localhost:8765/catalogue/book_29/index.html,http://localhost:8765/media/29.jpg,2,2026.11.04
+  Book   97 full title  ,$45.89,,3,yes,In stock,http://localhost:8765/catalogue/book_97/index.html,http://localhost:8765/media/97.jpg,5,"Nov 04, 2026"
+  Book   110 full title  ,$50.70,,1/5,1,In stock,http://localhost:8765/catalogue/book_110/index.html,http://localhost:8765/media/110.jpg,6,2026-11-04 14:32:40
+  Book   104 full title  ,USD 48.48,,5/5,True,In stock,http://localhost:8765/catalogue/book_104/index.html,http://localhost:8765/media/104.jpg,6,2026.11.04
+  Book   69 full title  ,Rs. 35.53,,5/5,yes,In stock,http://localhost:8765/catalogue/book_69/index.html,http://localhost:8765/media/69.jpg,4,04/11/2026
+  Book   90 full title  ,Rs. 43.30,,1,True,In stock,http://localhost:8765/catalogue/book_90/index.html,http://localhost:8765/media/90.jpg,5,2099-01-01
+  Book   51 full title  &amp; Co  ,28.87,,2/5,,In stock,http://localhost:8765/catalogue/book_51/index.html,http://localhost:8765/media/51.jpg,3,2026.11.04
+  Book   1 full title  ,£10.37,,2,1,In stock,http://localhost:8765/catalogue/book_1/index.html,http://localhost:8765/media/1.jpg,1,2026-11-04 14:32:40
+null,Â£32.20,,One,TRUE,In stock,http://localhost:8765/catalogue/book_60/index.html,http://localhost:8765/media/60.jpg,4,04/11/2026
+  Book   63 full title  ,$33.31,,4.0,,In stock,http://localhost:8765/catalogue/book_63/index.html,http://localhost:8765/media/63.jpg,4,2026-11-04 14:32:40
+  Book   2 full title  ,USD 10.74,,Three,True,In stock,http://localhost:8765/catalogue/book_2/index.html,http://localhost:8765/media/2.jpg,1,2026-11-04T14:32:40Z
+  Book   66 full title  ,$34.42,,Two,,In stock,http://localhost:8765/catalogue/book_66/index.html,http://localhost:8765/media/66.jpg,4,"Nov 04, 2026"
+  Book   81 full title  ,Â£39.97,,2/5,TRUE,In stock,http://localhost:8765/catalogue/book_81/index.html,http://localhost:8765/media/81.jpg,5,"Nov 04, 2026"
+  Book   26 full title  ,Â£19.62,,2/5,1,In stock,http://localhost:8765/catalogue/book_26/index.html,http://localhost:8765/media/26.jpg,2,"Nov 04, 2026"
+  Book   93 full title  ,$44.41,,4.0,TRUE,In stock,http://localhost:8765/catalogue/book_93/index.html,http://localhost:8765/media/93.jpg,5,2026-11-04 14:32:40
+  Book   119 full title  &amp; Co  ,"54,03 €",,Five,yes,In stock,http://localhost:8765/catalogue/book_119/index.html,http://localhost:8765/media/119.jpg,6,2026-11-04T14:32:40Z
+  Book   107 full title  ,£49.59,,3.0,True,In stock,http://localhost:8765/catalogue/book_107/index.html,http://localhost:8765/media/107.jpg,6,"Nov 04, 2026"
+  Book   21 full title  ,Rs. 17.77,,2,True,In stock,ftp//bad url,http://localhost:8765/media/21.jpg,2,2026.11.04
+  Book   0 full title  &amp; Co  ,"10,00 €",,1/5,True,In stock,http://localhost:8765/catalogue/book_0/index.html,http://localhost:8765/media/0.jpg,1,04/11/2026
+  Book   99 full title  ,$46.63,,Five,True,In stock,HTTP://LOCALHOST:8765/CATALOGUE/BOOK_99/INDEX.HTML,http://localhost:8765/media/99.jpg,5,2026-11-05
+  Book   106 full title  ,£49.22,,Two,True,In stock,http://localhost:8765/catalogue/book_106/index.html,http://localhost:8765/media/106.jpg,6,2026-11-04T14:32:40Z
